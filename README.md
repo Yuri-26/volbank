@@ -1,4 +1,4 @@
-# 💳 VOLBANK - Banco Virtual Inteligente
+# 💳 VOLBANK - Banco Virtual
 
 **VOLBANK** es un banco virtual colombiano simulado que busca replicar el funcionamiento real de una institución financiera moderna. Este proyecto fue desarrollado como entrega final del curso de Analista de Datos y tiene como propósito demostrar habilidades técnicas en SQL, Python, modelado de datos, automatización, análisis de negocio y visualización con Power BI.
 
